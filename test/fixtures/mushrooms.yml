@@ -1,0 +1,51 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  edible: MyString
+  cap-shape: MyString
+  cap-surface: MyString
+  cap-color: MyString
+  bruises?: MyString
+  odor: MyString
+  gill-attachment: MyString
+  gill-spacing: MyString
+  gill-size: MyString
+  gill-color: MyString
+  stalk-shape: MyString
+  stalk-root: MyString
+  stalk-surface-above-ring: MyString
+  stalk-surface-below-ring: MyString
+  stalk-color-above-ring: MyString
+  stalk-color-below-ring: MyString
+  veil-type: MyString
+  veil-color: MyString
+  ring-number: MyString
+  ring-type: MyString
+  spore-print-colororange: MyString
+  population: MyString
+  habitat: MyString
+
+two:
+  edible: MyString
+  cap-shape: MyString
+  cap-surface: MyString
+  cap-color: MyString
+  bruises?: MyString
+  odor: MyString
+  gill-attachment: MyString
+  gill-spacing: MyString
+  gill-size: MyString
+  gill-color: MyString
+  stalk-shape: MyString
+  stalk-root: MyString
+  stalk-surface-above-ring: MyString
+  stalk-surface-below-ring: MyString
+  stalk-color-above-ring: MyString
+  stalk-color-below-ring: MyString
+  veil-type: MyString
+  veil-color: MyString
+  ring-number: MyString
+  ring-type: MyString
+  spore-print-colororange: MyString
+  population: MyString
+  habitat: MyString
