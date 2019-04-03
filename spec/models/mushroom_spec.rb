@@ -86,12 +86,6 @@ RSpec.describe Mushroom, type: :model do
       end
 
 
-      it 'should validate the presence of the "stalk_surface_below_ring" property' do
-        mushroom = build :mushroom, stalk_surface_below_ring: ''
-        expect( mushroom).not_to be_valid
-        expect( mushroom.errors.messages[:stalk_color_below_ring]).to include("can't be blank")
-      end
-
       it 'should validate the presence of the "veil_type" property' do
         mushroom = build :mushroom, veil_type: ''
         expect( mushroom).not_to be_valid
