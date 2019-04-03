@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_04_02_145154) do
+ActiveRecord::Schema.define(version: 2019_04_03_004055) do
 
   create_table "mushrooms", force: :cascade do |t|
     t.boolean "edible"
